@@ -1,5 +1,7 @@
+let a = 10;
+let b = 20;
 function display(){
-    console.log('This is for git and Github');
+    console.log(`Addition Result, ${a+b}`);
 }
 
 display();
